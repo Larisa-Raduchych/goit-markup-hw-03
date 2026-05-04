@@ -121,6 +121,9 @@ body {
 
 .names {
   background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .team .title {
