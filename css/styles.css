@@ -163,12 +163,13 @@ img {
   width: calc((100% - 72px) / 4);
 }
 
-.advantages .title {
+.advantages-title {
   color: #2e2f42;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
+  margin-bottom: 8px;
 }
 
 .advantages .text {
@@ -237,7 +238,7 @@ img {
   color: #434455;
 }
 
-.person-position {
+.person-position-card {
   padding: 32px 0;
 }
 
@@ -332,13 +333,14 @@ img {
   padding: 100px 0;
 }
 
-.page-footer .text {
+.footer-text {
   color: #f4f4fd;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  max-width: 264px;
 }
 
-.page-footer .link-logo {
+.footer-link-logo {
   display: inline-block;
   margin-bottom: 16px;
 }
