@@ -343,6 +343,14 @@ img {
 .footer-link-logo {
   display: inline-block;
   margin-bottom: 16px;
+  color: #4d5ae5;
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  text-decoration: none;
 }
 
 .link-logo {
@@ -356,7 +364,7 @@ img {
   text-decoration: none;
 }
 
-.link-logo .accent {
+.footer-link-logo .accent {
   color: #f4f4fd;
 }
 
